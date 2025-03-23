@@ -1,2 +1,2 @@
 # EIE401
-Material de Procesamiento Digital Multimedia
+En este repositorio se encuentran las actividades y proyectos realizados para Procesamiento Digital Multimedia.
